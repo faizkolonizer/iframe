@@ -1,0 +1,36 @@
+Book visit 
+2. While booking visit Attechment not working 
+4. pay now exception to be cached and pay now functionality to be 
+
+6. From clinic page when we call book visit on summary page it is showing 
+   clinic name null
+7. clinc addres and all other deatil at confirm visit page
+
+X) Pet with no image Avtar is not loading in select pet page
+X) issue summary is not sent while creating visit 
+X) on visit summary page check clinic deatils is dynamic or static 
+	. like image
+
+Clinic Page 
+
+2. Is Open flag on card is dynamic(for status active)  
+3. About us is showing some un usual symbol for "'"
+X) Is rating dynamic
+
+Search Clinic Card 
+
+2. For null rating set zero star
+3. if we clinc is null that we have to handle
+X) remove distance falg as it is static 
+
+Update PET 
+
+2. add coat -->> coat heading on coat field, on load bread is getting null (need heading bread needed)
+4. Cancle button shaerd screen shoot
+3. remove upload image from Add pet
+X) Remove blu color from DOB section 
+
+ICONS NEDED
+1. Service Icon For clinic Page 
+2. Vet Avtar  For Clinic Page 
+3. Pet Avtar (some outline of dog in blue shade) 
